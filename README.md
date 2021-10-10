@@ -1,6 +1,8 @@
-# proyectovacio
+# Aviso importante instala los node_modules
 
-## Project setup
+## Proyecto Vacío con Router, Vuex, Bootstrap, Popper y Firebase
+
+## Instalar los node_modules
 ```
 npm install
 ```
